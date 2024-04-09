@@ -304,7 +304,8 @@ main {
     justify-content: center;
     align-items: flex-start;
     gap: 100px;
-    
+    position: relative;
+    bottom: 500px;
     
 }
 
